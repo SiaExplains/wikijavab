@@ -1,0 +1,1 @@
+For now we don't have any back-end api and we must use static json files, but in future we must develop a back-end api.
