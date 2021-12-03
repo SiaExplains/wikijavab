@@ -1,10 +1,10 @@
 Done:
 
 - project created
+- create types of entities
 
 Next Steps:
 
-- create types of entities
 - create static content instead of API
 - create layout components (header, footer)
 - active & check sass feture
