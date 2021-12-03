@@ -1,3 +1,6 @@
+import React from "react";
+
+import Footer from "../src/components/Layout/footer";
 import Header from "../src/components/Layout/header";
 
 const Home = () => {
@@ -5,6 +8,7 @@ const Home = () => {
     <div>
       <Header hasLogo={false} title="WOW!" />
       This is Home
+      <Footer />
     </div>
   );
 };
